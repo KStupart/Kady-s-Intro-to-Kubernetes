@@ -2,9 +2,9 @@
 ## Goals
 This repo was created as a way to document my knowledge on emerging CICD Tools and to spark growth through self-studying.
 * Kubernetes
-  * [ ] Understand the Terminology (Kubernetes, Nodes/Minions, Master, Pods, etc.)
-  * [ ] Getting started with tools (Using minikube, VirtualBox, kubectl via Command Prompt)
-  * [ ] Create a Deployment 
+  * [X] Understand the Terminology (Kubernetes, Nodes/Minions, Master, Pods, etc.)
+  * [X] Getting started with tools (Using minikube, VirtualBox, kubectl via Command Prompt)
+  * [X] Create a Deployment 
   * [ ] Create a Cluster
   * [ ] Create a Loadbalancer
   * [ ] Udemy learn Kubernetes Certificate
