@@ -26,6 +26,7 @@ __Terminology__
 
 __Main Kubernetes Components__
 | Component  | Role |
+| ------------- | ------------- |
 | API Server | The frontend of Kubernetes  |
 | etcd | Key-value store that contains logs for the cluster  |
 | Scheduler | Distributes work to containers  |
@@ -35,6 +36,7 @@ __Main Kubernetes Components__
 
 __Common Commands__
 | Command  | What Does It Do? |
+| ------------- | ------------- |
 | `kubectl run name` | Content Cell  |
 | `kubectl cluster-info` | Content Cell  |
 | `kubectl get nodes` | Content Cell  |
