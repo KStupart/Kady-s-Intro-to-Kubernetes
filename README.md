@@ -42,4 +42,9 @@ __Common Commands__
 | `kubectl get nodes` | Content Cell  |
 
 __Creating a Deployment__
-
+!(Starting Minikube)[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/starting-k8s-minikube.png]
+!(Viewing Minikube in VirtualBox)[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k8s-in-virtualbox.png]
+!(Viewing the Empty Kubernetes Dashboard for Minikube)[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k8s-dash-empty.png]
+!(Creating my first Deployment - K12t is my fullname "KadyannStupart")[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/starting-k8s-minikube-command-line.png]
+!(Viewing the K12t deployment in my local)[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k12t-minikube-deployment.png]
+!(Viewing the K12t deployment in Kubernetes Dashboard)[https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k12t-minikube-dashboard.png]
