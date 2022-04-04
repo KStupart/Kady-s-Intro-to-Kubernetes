@@ -12,6 +12,7 @@ This repo was created as a way to document my knowledge on emerging CICD Tools a
 * Ansible
 
 ### Kubernetes
+
 __Terminology__
 | Term  | Meaning |
 | ------------- | ------------- |
@@ -24,6 +25,7 @@ __Terminology__
 | Master | A node that manages slave nodes and contains logs. Has the kube-apiserver.  |
 | kubectl | Kubernetes Command Line. Used to deploy and manage applications on the cluster  |
 
+
 __Main Kubernetes Components__
 | Component  | Role |
 | ------------- | ------------- |
@@ -34,6 +36,7 @@ __Main Kubernetes Components__
 | Container Runtime | The underlying software used to run containers (Docker)  |
 | kubelet | The agent that runs on each node in the cluster  |
 
+
 __Common Commands__
 | Command  | What Does It Do? |
 | ------------- | ------------- |
@@ -42,15 +45,21 @@ __Common Commands__
 | `kubectl get nodes` | Content Cell  |
 
 __Creating a Deployment__
+
 Starting the Minikube
 ![Starting Minikube](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/starting-k8s-minikube.png)
+
 Viewing Minikube in VirtualBox
 ![Viewing Minikube in VirtualBox](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k8s-in-virtualbox.png)
+
 Viewing the Empty Kubernetes Dashboard for Minikube
 ![Viewing the Empty Kubernetes Dashboard for Minikube](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k8s-dash-empty.png)
+
 Creating my first Deployment - K12t is my fullname "KadyannStupart"
 ![Creating my first Deployment - K12t is my fullname "KadyannStupart"](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/starting-k8s-minikube-command-line.png)
+
 Viewing the K12t deployment in my local
 ![Viewing the K12t deployment in my local](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k12t-minikube-deployment.png)
+
 Viewing the K12t deployment in Kubernetes Dashboard
 ![Viewing the K12t deployment in Kubernetes Dashboard](https://github.com/KStupart/Kady-s-Intro-to-Kubernetes/blob/be01ae0f71d340aff14d3652bc5374905c6b2fca/Kubernetes%20Screenshots/k12t-minikube-dashboard.png)
