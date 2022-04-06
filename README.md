@@ -40,9 +40,13 @@ __Main Kubernetes Components__
 __Common Commands__
 | Command  | What Does It Do? |
 | ------------- | ------------- |
-| `kubectl run name` | Content Cell  |
-| `kubectl cluster-info` | Content Cell  |
-| `kubectl get nodes` | Content Cell  |
+| `kubectl run name --image=image` | Creates a pod with the name NAME from image IMAGE  |
+| `kubectl describe pod NAME` | Describes the pod NAME with verbose output  |
+| `kubectl get nodes` | Displays all nodes and their status  |
+| `kubectl get pods` | Displays all pods and their status  |
+| `kubectl get all` | Displays all resources (i.e. services, nodes, pods, etc)  |
+| `kubectl expose` | Update when learning objective is completed  |
+| `kubectl autoscale` | Update when learning objective is completed  |
 
 __Creating a Deployment__
 
